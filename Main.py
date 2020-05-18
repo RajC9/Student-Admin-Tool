@@ -17,8 +17,8 @@ elif username =='Katie' and password =='python99':
     print('Welcome katie')
     print('Your selected lessons are:')
     print(subjects[1])
-    (subjects[-2])
-    (subjects[-3])
+    print (subjects[-2])
+    print (subjects[-3])
 elif username =='Miles' and password=='Tails89':
     print('Welcome Miles')
     print('Your selected lessons are:')
