@@ -1,4 +1,4 @@
-'''This is my attempt at a student timetable
+'''This is my attempt at a student Adminstration Timetable
 5 students
 several subject'''
 
