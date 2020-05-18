@@ -1,6 +1,8 @@
-'''This is my attempt at a student Adminstration Timetable
+'''
+This is my attempt at a student Adminstration Timetable
 5 students
-several subject'''
+several subject
+'''
 
 subjects= ['Maths','Art','Science','Hstory','Geography','PE','English']
 
